@@ -2146,6 +2146,18 @@ input, select, textarea {
 				width: 100%;
 			}
 
+	.hover-img {
+		width: 100%;
+		height: auto;
+		max-width: 200px;
+	}
+
+	.proj-img {
+		width: 100%;
+		height: auto;
+		max-width: 800px;
+	}
+
 /* List */
 
 	ol {
@@ -2558,7 +2570,7 @@ input, select, textarea {
 	}
 
 		.work-item .image {
-			margin: 0 0 0 0;
+			margin: 0 0 1.5em 0;
 		}
 
 		.work-item h3 {
